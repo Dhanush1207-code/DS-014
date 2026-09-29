@@ -1,0 +1,41 @@
+# Data Structures Lab Practical (C++)
+
+## Student Information
+- **Name:** Your Name
+- **Enrollment No.:** Your Enrollment Number
+- **Course:** Data Structures
+- **Language:** C++
+
+## About
+This repository contains C++ programs completed as part of the Data Structures Lab. The programs demonstrate the implementation of various data structures and algorithms.
+
+## List of Programs
+1. Reverse Array using Pointers
+2. Call by Value and Call by Reference
+3. Stack using Array
+4. Infix to Postfix Conversion
+5. Queue using Array
+6. Linked List Operations
+7. Searching Algorithms
+8. Sorting Algorithms
+9. (Add other practical here)
+
+## Requirements
+- C++ Compiler (GCC, G++, or Turbo C++)
+- Visual Studio Code / CodeBlocks / Dev-C++
+
+## How to Run
+1. Open the program in any C++ IDE.
+2. Compile the source file.
+3. Run the executable.
+4. Enter the required input (if any).
+
+## Learning Outcomes
+- Understand pointers and functions.
+- Learn stack operations.
+- Perform expression conversion.
+- Implement searching and sorting techniques.
+- Gain hands-on experience with data structures in C++.
+
+## Author
+**Your Name**
